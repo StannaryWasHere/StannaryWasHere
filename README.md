@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Stannary
+- 👀 I’m interested in javascript and html
+- 🌱 I’m currently learning to make discord bots
+- 💞️ I’m looking to collaborate on discord bots
+- 📫 How to reach me, download discord ofc 😅 
+- 📨 My username:- Stannary#5243
